@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    line-height : 1.15px;
+    color: #747474;
+
+}
+
+span{
+font-style: oblique;
+font-weight: 600;
+font-size: 16;
+line-height: 1.46;
+color: #5c5a5a;
+}
+
+p{
+    line-height: 1.46;
+color: #5c5a5a;
+}
+
